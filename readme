@@ -1,0 +1,5 @@
+Code is based on the Pix2Pix CGAN architecture.
+Code for an STFT-based timbre transfer is borrowed from the following link:
+https://github.com/hmartelb/Pix2Pix-Timbre-Transfer
+
+It was used as a basis for developing the models needed for this Honours project.
